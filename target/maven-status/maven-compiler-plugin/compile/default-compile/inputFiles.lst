@@ -1,0 +1,17 @@
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/domainbeans/PairPointArguments.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/domainbeans/ActionType.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/Constants.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/strategies/CanvasIniUpdateAction.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/App.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/domainbeans/Arguments.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/domainbeans/CommandLine.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/domainbeans/AreaArguments.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/domainbeans/Canvas.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/domainbeans/Point.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/strategies/Action.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/strategies/LineUpdateCanvasAction.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/strategies/ActionFactory.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/domainbeans/CanvasArguments.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/strategies/AreaFillingUpdateAction.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/strategies/RectangleUpdateAction.java
+/Users/martarey/dev/springer-test/src/main/java/com/marta/springernaturetest/domainbeans/CanvasImpl.java
