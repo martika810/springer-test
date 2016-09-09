@@ -23,7 +23,13 @@ I used maven to create the progress. To implement the test my approach is the fo
   	  		
    HOW TO RUN:
       
-      The zip file contains a build. Run it using: java -jar <jar_file>
+      The zip file contains a ready build. Run it using: "java -jar springer-test-1.0-SNAPSHOT-jar-with-dependencies.jar"
+      The code is also available in GITHUB (https://github.com/martika810/springer-test)
+      To run it : 
+            - clone repo
+      		- mvn clean install
+      		- run the jar using (java -jar). Run the file named "springer-test-1.0-SNAPSHOT-jar-with-dependencies.jar"
+      
       
    POSSIBLE ERRORS:
    
