@@ -1,5 +1,5 @@
 
-I used maven to create the progress. To implement the test my approach is the following:
+Used maven to create the project. To implement the test my approach is the following:
 
   - READ INPUTS: Wrap the command input in an object CommandLine which contains:
   		-Action: Canvas,Line,Rectangle
